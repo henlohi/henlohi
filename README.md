@@ -8,6 +8,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henlohi)](https://github.com/henlohi/github-readme-stats)
 
+<img alt="Henlo_Hi's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=henlohi&theme=dark" />
+
 
 
 
@@ -17,4 +19,8 @@
 
 
     
+
+
+    
+  
   
