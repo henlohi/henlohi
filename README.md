@@ -1,6 +1,6 @@
 ### Hi there, I'm Henlo_hi 👋
 
-## I'm a Full Stack Developer!
+## I'm a Security Researcher!
 
 - 🥅 2021 Goals: Learning BlockChain and more stuffs everyday.
 - ⚡ Hobbies: I love Ctfs - Tryhackme,hackThebox,Picoctfs,GoogleCtfs!
