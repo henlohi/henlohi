@@ -1,10 +1,12 @@
 ### Hi there, I'm Henlo_hi 👋
 
-- 👋 Hi, I’m @henlohi
+## I'm a Full Stack Developer!
+
+- 🥅 2021 Goals: Learning BlockChain and more stuffs everyday.
+- ⚡ Hobbies: I love Ctfs - Tryhackme,hackThebox,Picoctfs,GoogleCtfs!
 - 👀 I’m interested in Ctf's, Reverse Engineering, Web application and Blockchain Hacking.
 - 🌱 I’m currently learning Solidity.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- - 📫 How to reach me ...
 
   ![](https://komarev.com/ghpvc/?username=henlohi)
 
