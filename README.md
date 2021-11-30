@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Henlo_Hi's GitHub stats](https://github-readme-stats.vercel.app/api?username=henlohi&hide=contribs,prs,issues,stars)
+![Henlo_Hi's GitHub stats](https://github-readme-stats.vercel.app/api?username=henlohi&hide=contribs,prs,issues,stars&show_icons=true)
 
 
 
