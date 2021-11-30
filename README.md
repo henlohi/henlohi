@@ -5,3 +5,10 @@
 - 📫 How to reach me ...
 
 [![Henlo_Hi's GitHub stats](https://github-readme-stats.vercel.app/api?username=henlohi)](https://github.com/henlohi/github-readme-stats)
+![Henlo_Hi's GitHub stats](https://github-readme-stats.vercel.app/api?username=henlohi&hide=contribs,prs,issues,stars)
+
+
+
+
+    
+  
