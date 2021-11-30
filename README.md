@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+![](https://komarev.com/ghpvc/?username=henlohi)
+
 <br />
 
 ### Languages and Tools:
