@@ -43,6 +43,8 @@
 <br />
 <br />
 
+### Github Stats
+
 ![Henlo_Hi's GitHub stats](https://github-readme-stats.vercel.app/api?username=henlohi&hide=contribs,prs,issues,stars&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henlohi)](https://github.com/henlohi/github-readme-stats)
